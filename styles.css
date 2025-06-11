@@ -1,0 +1,21 @@
+/* Paragraph tag styles */
+p {
+    background-color: aqua;
+    color: blueviolet;
+}
+
+/* Strong tag style for prices */
+strong {
+    color: brown;
+}
+
+/* Hover effect on prices */
+strong:hover {
+    background-color: lightyellow;
+}
+
+/* Class for product names */
+.names {
+    font-family: Sans-Serif;
+    font-size: larger;
+}
